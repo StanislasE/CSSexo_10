@@ -1,0 +1,21 @@
+#content{
+    width: 1580px;
+    height: 820px;
+    display: flex;
+    flex-direction: row;
+}
+.box1{
+    width: 1264px;
+    height: 70px;
+    background-color: #00ff00;
+}
+.box2{
+    width: 316px;
+    height: 70px;
+    background-color: blue;
+}
+.box3{
+    width: 450px;
+    height: 210px;
+    background-color: crimson;
+}

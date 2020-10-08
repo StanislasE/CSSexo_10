@@ -1,0 +1,57 @@
+#box1 {
+    width: 80%;
+    height: 50px;
+    background-color: #00FF00;
+}
+
+#box2 {
+    width: 20%;
+    height: 50px;
+    background-color: rgba(0, 47, 255, 0.986);
+}
+
+#box3 {
+    width: 34%;
+    height: 150px;
+    background-color: crimson;
+}
+
+#box4 {
+    width: 33%;
+    height: 75px;
+    background-color: orange;
+}
+
+#box5 {
+    width: 33%;
+    height: 75px;
+    background-color: gray;
+}
+
+#box6 {
+    width: 22%;
+    height: 75px;
+    background-color: yellow;
+}
+
+#box7 {
+    width: 22%;
+    height: 75px;
+    background-color: greenyellow;
+}
+
+#box8 {
+    width: 22%;
+    height: 75px;
+    background-color: orangered;
+}
+
+#box9 {
+    width: 100%;
+    height: 200px;
+    background-color: black;
+}
+
+#container>div {
+    float: left;
+}
